@@ -96,9 +96,9 @@ After I made these elements, then I appended these to the row element that I cre
 
 ### And coding style tests
 
-The coding styles for the header and footer and using bootstrap were fairly easy. I felt like that once you had all those components together then you already finished half of the work that you have to do. Bootstrap already uses a template that are very media-query friendly, but you still have to stylize the media queries to make it appealing. Google Chrome inspector is a huge asset and a life saver for this project as I can just inspect an element and then stylize it. 
+. 
 
 
 ## Deployment
 
-https://msurio.github.io/third-party-api/
+https://msurio.github.io/day-planner/
